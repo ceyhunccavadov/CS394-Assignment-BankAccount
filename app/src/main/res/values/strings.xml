@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">BankDetails</string>
+
+    <string-array name="first_names">
+        <item>Jeyhun</item>
+        <item>Cherey</item>
+        <item>Stillman</item>
+        <item>Amelia</item>
+        <item>Jacob</item>
+        <item>Alexis</item>
+        <item>Nolan</item>
+        <item>Olivia</item>
+        <item>Liam</item>
+        <item>Ava</item>
+        <item>Mia</item>
+        <item>Lucas</item>
+        <item>Sophia</item>
+        <item>Isabella</item>
+        <item>Elijah</item>
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Javadov</item>
+        <item>Sayers</item>
+        <item>Proback</item>
+        <item>Smith</item>
+        <item>Johnson</item>
+        <item>Williams</item>
+        <item>Brown</item>
+        <item>Garcia</item>
+        <item>Miller</item>
+        <item>Martinez</item>
+        <item>Wilson</item>
+        <item>Anderson</item>
+        <item>Taylor</item>
+        <item>Thomas</item>
+        <item>Moore</item>
+    </string-array>
+
+    <string-array name="card_number">
+        <item>5838874893872872</item>
+        <item>1237488399283883</item>
+        <item>9388298489933883</item>
+        <item>4920394820938274</item>
+        <item>9238749283748234</item>
+        <item>4857392837492837</item>
+        <item>8374982734982374</item>
+        <item>3948572394823749</item>
+        <item>7293847293847293</item>
+        <item>8472837498237498</item>
+        <item>3829473928472938</item>
+        <item>8394729384729834</item>
+        <item>2398472384729834</item>
+        <item>9834729834729384</item>
+        <item>3928472837492847</item>
+    </string-array>
+
+    <string-array name="expiration_dates">
+        <item>3/12/2030</item>
+        <item>4/26/2025</item>
+        <item>6/16/2027</item>
+        <item>5/30/2029</item>
+        <item>11/15/2031</item>
+        <item>7/21/2026</item>
+        <item>2/10/2028</item>
+        <item>9/4/2032</item>
+        <item>10/14/2024</item>
+        <item>12/1/2033</item>
+        <item>8/19/2034</item>
+        <item>1/22/2027</item>
+        <item>5/6/2025</item>
+        <item>3/17/2028</item>
+        <item>7/9/2030</item>
+    </string-array>
+
+    <string-array name="card_type">
+        <item>platinum</item>
+        <item>gold</item>
+        <item>standard</item>
+        <item>business</item>
+        <item>premium</item>
+        <item>diamond</item>
+        <item>silver</item>
+        <item>classic</item>
+        <item>elite</item>
+        <item>student</item>
+        <item>secured</item>
+        <item>limited</item>
+        <item>premium plus</item>
+        <item>executive</item>
+        <item>black</item>
+    </string-array>
+
+    <string-array name="account_balance">
+        <item>166.66$</item>
+        <item>234.93$</item>
+        <item>9378.12$</item>
+        <item>1245.50$</item>
+        <item>503.21$</item>
+        <item>846.78$</item>
+        <item>1056.34$</item>
+        <item>7593.87$</item>
+        <item>492.39$</item>
+        <item>20384.12$</item>
+        <item>752.43$</item>
+        <item>9837.98$</item>
+        <item>183.92$</item>
+        <item>120.45$</item>
+        <item>2349.57$</item>
+    </string-array>
+
+</resources>
